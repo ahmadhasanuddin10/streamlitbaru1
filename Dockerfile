@@ -11,4 +11,4 @@ EXPOSE 8080
 
 
 # Jalankan TensorFlow Serving
-ENTRYPOINT ["/usr/bin/tensorflow_model_server", "--port=8500", "--rest_api_port=8501", "--model_name=${MODEL_NAME}", "--model_base_path=/models/${MODEL_NAME}"]
+ENTRYPOINT ["/usr/bin/tensorflow_model_server", "--port=8080", "--rest_api_port=8080", "--model_name=${MODEL_NAME}", "--model_base_path=/models/${MODEL_NAME}"]
