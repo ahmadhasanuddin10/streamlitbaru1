@@ -1,9 +1,5 @@
 # Submission 2: Heart Failure Prediction
 
-Nama: Abdul Azis
-
-Username dicoding: zizz1181
-
 | | Deskripsi |
 | ----------- | ----------- |
 | Dataset | [Heart Failure Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction) |
