@@ -1,10 +1,4 @@
-"""
-Author: Maulana Muhammad
-Date: 22/04/2023
-This is the trainer.py module.
-Usage:
-- TRAINER MODEL PIPELINE
-"""
+
 import os
 
 import tensorflow as tf
