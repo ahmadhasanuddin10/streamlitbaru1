@@ -1,10 +1,4 @@
-"""
-Author: Maulana Muhammad
-Date: 22/04/2023
-This is the pipline.py module.
-Usage:
-- FOR RUNNING PIPELINE
-"""
+
 import os
 from typing import Text
 
