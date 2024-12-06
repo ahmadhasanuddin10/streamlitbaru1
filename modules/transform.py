@@ -1,10 +1,4 @@
-"""
-Author: Maulana Muhammad
-Date: 22/04/2023
-This is the transform.py module.
-Usage:
-- TRANSFORM FEATURE
-"""
+
 import tensorflow as tf
 import tensorflow_transform as tft
 
