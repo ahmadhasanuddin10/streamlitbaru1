@@ -1,11 +1,9 @@
 # Final Submission : Machine Learning Pipeline - Diabetes Classification
-Nama: Maulana Muhammad
+Nama: Ahmad Hasanuddin
 
-Username dicoding: maoelana
+Username dicoding: ahmad_hasanuddin_plMU
 
-![image-1](https://user-images.githubusercontent.com/58927608/233813701-29ab0111-abf0-4020-a0d7-981e7d3fc3d4.png)
 
-[Sumber Gambar](https://www.rsbudimedika.com/mengenal-risiko-penyakit-diabetes-dan-cara-mencegahnya/)
 
 | | Deskripsi |
 | ----------- | ----------- |
