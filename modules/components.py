@@ -1,10 +1,3 @@
-"""
-Author: Maulana Muhammad
-Date: 22/04/2023
-This is the components.py module.
-Usage:
-- COMPONENTS ML PIPELINE
-"""
 import os
 import tensorflow_model_analysis as tfma
 
